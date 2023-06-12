@@ -25,8 +25,8 @@ I enjoy leveraging data to solve complex problems in the textile and clothing in
 
 Check out some of the data science projects I've worked on:
 
-- [Project 1]([link-to-project-1](https://www.citeve.pt/artigo/texpact)1): TEXP@CT.
-- [Project 2]([link-to-project-2](https://www.citeve.pt/artigo/giatex)): GIATEX.
+- [Project 1](https://www.citeve.pt/artigo/texpact): TEXP@CT.
+- [Project 2](https://www.citeve.pt/artigo/giatex): GIATEX.
 
 
 ## Experience 💼🔍
